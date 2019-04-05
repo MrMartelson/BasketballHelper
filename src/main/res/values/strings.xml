@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BasketballHelper</string>
+
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+
+    <string name="three_points">Three Points</string>
+    <string name="two_points">Two Points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="settings">Settings</string>
+
+    <string name="zero">0</string>
+
 </resources>
